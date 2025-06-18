@@ -1,6 +1,6 @@
 # Backstage Management System
 
-##简介
+## 简介
 
 后台管理系统，基于Vue3 + Element-Plus + Axios + Pinia
 
@@ -10,11 +10,14 @@
 
 -[Node](https://nodejs.org/zh-cn) v22.14.0
 
-##技术栈
+## 技术栈
 
 -前端框架：[Vue3](https://vuejs.org/)
+
 -UI组件：[Element-Plus](https://element-plus.org/zh-CN/)
+
 -状态管理：[Pinia](https://pinia.vuejs.org/zh/introduction.html)
+
 -请求封装：[Axios](https://www.axios-http.cn/)
 
 ## Project Setup
