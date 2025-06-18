@@ -1,14 +1,21 @@
 # Backstage Management System
 
-This template should help get you started developing with Vue 3 in Vite.
+##简介
 
-## Recommended IDE Setup
+后台管理系统，基于Vue3 + Element-Plus + Axios + Pinia
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 环境配置
 
-## Customize configuration
+-[npm](https://www.npmjs.com/) 11.4.2
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+-[Node](https://nodejs.org/zh-cn) v22.14.0
+
+##技术栈
+
+-前端框架：[Vue3](https://vuejs.org/)
+-UI组件：[Element-Plus](https://element-plus.org/zh-CN/)
+-状态管理：[Pinia](https://pinia.vuejs.org/zh/introduction.html)
+-请求封装：[Axios](https://www.axios-http.cn/)
 
 ## Project Setup
 
