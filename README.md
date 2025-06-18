@@ -20,13 +20,13 @@
 
 -请求封装：[Axios](https://www.axios-http.cn/)
 
-## Project Setup
+## 依赖安装
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 开发环境编译（支持热重载）
 
 ```sh
 npm run dev
