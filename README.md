@@ -32,19 +32,19 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 生产环境编译
 
 ```sh
 npm run build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+### 单元测试[Vitest](https://vitest.dev/)
 
 ```sh
 npm run test:unit
 ```
 
-### Run End-to-End Tests with [Playwright](https://playwright.dev)
+### 端到端测试[Playwright](https://playwright.dev)
 
 ```sh
 # Install browsers for the first run
